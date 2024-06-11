@@ -1,6 +1,6 @@
 HIKING AND ADVENTURE PLANNER SYSTEM(DBMS CENTRIC PROJECT)
 ![image](https://github.com/Shreya-230/Hiking-and-Adventure-Planner-system/assets/155036107/cad575a8-201d-4c32-9d6a-82adcebd6184)
+![image](https://github.com/Shreya-230/Hiking-and-Adventure-Planner-system/assets/155036107/12a20eeb-c6ab-44e7-aa40-8bf3aa8272f1)
 ![image](https://github.com/Shreya-230/Hiking-and-Adventure-Planner-system/assets/155036107/bcda4279-92cb-4d10-bcb1-d10fb241ee81)
 ![image](https://github.com/Shreya-230/Hiking-and-Adventure-Planner-system/assets/155036107/0b792570-bc2b-4ebf-b300-ca0cc60d588c)
 ![image](https://github.com/Shreya-230/Hiking-and-Adventure-Planner-system/assets/155036107/e9b9be49-8ead-4e92-9587-4bd06658d3db)
-![Uploading image.png…]()
