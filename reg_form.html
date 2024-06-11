@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign-In Form</title>
+    <link rel="stylesheet" href="form.css">
+ <link rel="stylesheet" href="reg_form.css">
+</head>
+<body>
+    <h1 style="color:black; text-align: center;">Registration Form</h1>
+    <form action="reg.php" method="post">
+
+        <label>
+            <span>Equipment Type</span>
+            <div class="equipment-options">
+                <label>
+                    <input type="radio" name="equipment_type" value="hiking" required /> Hiking
+                </label>
+                <label>
+                    <input type="radio" name="equipment_type" value="hiking-boot" required /> Hiking Boot
+                </label>
+                <label>
+                    <input type="radio" name="equipment_type" value="first-aid-kit" required /> First Aid Kit
+                </label>
+                <label>
+                    <input type="radio" name="equipment_type" value="backpack" required /> Backpack
+                </label>
+            </div>
+        </label>
+
+        <label>
+            <span>Location</span>
+            <input type="text" name="location" required />
+        </label>
+
+        <label>
+            <span>Brand</span>
+            <input type="text" name="brand" required />
+        </label>
+
+        <label>
+            <span>Condition</span>
+            <input type="text" name="condition" required />
+        </label>
+
+        <label>
+            <span>Description</span>
+            <input type="text" name="description" required />
+        </label>
+      
+        <button type="submit" class="submit">Log In</button>
+        <div class="no_account">
+            <p>Don't have an account?</p>
+            <a href="" style="margin:17px;">Sign Up</a>
+        </div>
+    </form>
+</body>
+</html>
